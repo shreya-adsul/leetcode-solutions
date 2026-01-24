@@ -14,4 +14,8 @@ class Solution:
                     return False
                 if ch=="]" and top!="[":
                     return False
-        return len(stack)==0
+        return len(stack)==0 
+        
+        
+        
+        
