@@ -14,4 +14,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/shreya-adsul/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/shreya-adsul/leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
