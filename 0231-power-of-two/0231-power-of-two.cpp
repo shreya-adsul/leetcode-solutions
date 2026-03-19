@@ -1,0 +1,19 @@
+#include<math.h>
+class Solution {
+public:
+    bool isPowerOfTwo(int n) {
+        int i=0;
+        int ans=0;
+       while(i<=30)
+       {
+         ans=pow(2,i);
+        
+          if(ans==n)
+       {
+        return true;
+       }
+        i++;
+       }
+      return false;
+    }
+};
